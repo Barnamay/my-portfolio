@@ -209,12 +209,12 @@ export default function Home() {
         <h2 className="text-4xl font-bold mb-10 drop-shadow-[0_0_10px_rgba(255,255,255,0.4)]">📸 My Gallery</h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6 max-w-6xl mx-auto">
           {[
-            '/gal1.jpg',
-            '/gal2.jpg',
+            '/gal1.jpeg',
+            '/gal2.jpeg',
             '/gal3.jpg',
             '/gal4.jpg',
             '/gal5.jpg',
-            '/gal6.jpg'
+            '/gal6.jpeg'
           ].map((src, i) => (
             <img
               key={i}

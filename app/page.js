@@ -185,7 +185,7 @@ export default function Home() {
               icon: '🌐'
             },
             {
-              title: 'YouTube Creator',
+              title: 'YouTuber',
               desc: 'Uploaded tutorials & dev content regularly',
               icon: '🎬'
             },

@@ -232,16 +232,19 @@ export default function Home() {
         <p className="text-purple-200 max-w-2xl mx-auto mb-8">
           I create videos about web development, Tourism, productivity and side project building.
         </p>
-        <div className="max-w-xl mx-auto aspect-video rounded-2xl overflow-hidden shadow-lg shadow-pink-500/30">
+        <div className="max-w-5xl mx-auto mt-20 text-center px-4">
+        <h2 className="text-4xl font-bold text-yellow-400 mb-6">📽️ Watch My Latest Creation</h2>
+        <div className="relative w-full" style={{ paddingBottom: '56.25%', height: 0 }}>
           <iframe
-            src="https://www.youtube.com/watch?v=ac3422Rqawo&list=PLZ6B3_LxRgVRtbMsslb3pF_U-JJPj5Itm"
-            title="YouTube video"
+            className="absolute top-0 left-0 w-full h-full rounded-xl shadow-xl"
+            src="https://www.youtube.com/embed/ac3422Rqawo"
+            title="YouTube video player"
             frameBorder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
-            className="w-full h-full"
           ></iframe>
         </div>
+      </div>
         <a
           href="https://www.youtube.com/@barnamaychowdhury3226"
           target="_blank"

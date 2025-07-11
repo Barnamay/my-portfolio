@@ -23,7 +23,7 @@ export default function Home() {
           href="mailto:barnamay1234@gmail.com"
           className="flex items-center gap-1 hover:text-pink-400 transition-all duration-200"
         >
-          <span>✉</span> <span>Contact Me</span>
+          <span>✉</span> <span>Contact Me(barnamay1234@gmail.com)</span>
         </a>
         <a
           href="/cv.pdf"
@@ -67,7 +67,7 @@ export default function Home() {
 
           {/* Social links */}
           <div className="flex justify-center md:justify-start gap-4 text-xl mb-6">
-            <a href="mailto:barnamay1234@gmail.com" className="hover:text-pink-400">📧</a>
+            <a href="mailto:" className="hover:text-pink-400">📧barnamay1234@gmail.com</a>
             <a href="https://github.com/barnamay" target="_blank" className="hover:text-pink-400">🐙</a>
             <a href="https://linkedin.com/in/barnamay-chowdhury-614524257" target="_blank" className="hover:text-pink-400">💼</a>
             <a href="https://www.youtube.com/@barnamaychowdhury3226" target="_blank" className="hover:text-pink-400">🎬</a>

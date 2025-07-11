@@ -102,6 +102,13 @@ export default function Home() {
           </div>
         </div>
       </section>
+      <section className="py-24 px-6 bg-gradient-to-b from-black via-purple-950 to-black text-white text-center">
+        <div className="mt-6 flex justify-center gap-6 text-white text-xl">
+            <a href="mailto:barnamay1234@gmail.com" className="hover:text-pink-400">📧 Mail</a>
+            <a href="https://github.com/barnamay" target="_blank" rel="noopener noreferrer" className="hover:text-pink-400">🐙 GitHub</a>
+            <a href="https://linkedin.com/in/barnamay-chowdhury-614524257" target="_blank" rel="noopener noreferrer" className="hover:text-pink-400">💼 LinkedIn</a>
+          </div>
+      </section>
 
       {/* Project Showcase */}
       {/* Project Showcase */}

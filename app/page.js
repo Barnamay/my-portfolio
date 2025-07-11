@@ -213,7 +213,7 @@ export default function Home() {
             '/gal2.jpeg',
             '/gal3.jpg',
             '/gal4.jpg',
-            '/gal5.jpg',
+            '/gal5.jpeg',
             '/gal6.jpeg'
           ].map((src, i) => (
             <img

@@ -167,7 +167,7 @@ export default function Home() {
         <h2 className="text-center text-4xl font-bold mb-10 drop-shadow-[0_0_10px_rgba(255,255,255,0.4)]">Highlights</h2>
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-12 max-w-6xl mx-auto">
           {[
-            
+
             {
               title: 'Web Developer',
               desc: 'Developes Fullstack Website',
@@ -233,18 +233,19 @@ export default function Home() {
           I create videos about web development, Tourism, productivity and side project building.
         </p>
         <div className="max-w-5xl mx-auto mt-20 text-center px-4">
-        <h2 className="text-4xl font-bold text-yellow-400 mb-6">📽️ Watch My Latest Creation</h2>
-        <div className="relative w-full" style={{ paddingBottom: '56.25%', height: 0 }}>
-          <iframe
-            className="absolute top-0 left-0 w-full h-full rounded-xl shadow-xl"
-            src="https://www.youtube.com/embed/ac3422Rqawo"
-            title="YouTube video player"
-            frameBorder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowFullScreen
-          ></iframe>
+          <h2 className="text-4xl font-bold text-yellow-400 mb-6">📽️ Watch My Latest Creation</h2>
+          <div className="relative w-full" style={{ paddingBottom: '56.25%', height: 0 }}>
+            <iframe
+              className="absolute top-0 left-0 w-full h-full rounded-xl shadow-xl"
+              src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+              title="YouTube video player"
+              frameBorder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowFullScreen
+            ></iframe>
+
+          </div>
         </div>
-      </div>
         <a
           href="https://www.youtube.com/@barnamaychowdhury3226"
           target="_blank"

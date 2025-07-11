@@ -95,11 +95,11 @@ export default function Home() {
           <p>
             I also create content on <span className="text-pink-400 font-semibold">YouTube</span>, contribute to <span className="text-pink-400 font-semibold">open-source projects</span>, and actively participate in developer communities like <span className="text-pink-400 font-semibold">GDSC/Google Developer Groups</span>.
           </p>
-          <div className="mt-6 flex justify-center gap-6 text-white text-xl">
+          {/* <div className="mt-6 flex justify-center gap-6 text-white text-xl">
             <a href="mailto:barnamay1234@gmail.com" className="hover:text-pink-400">📧 Mail</a>
             <a href="https://github.com/barnamay" target="_blank" rel="noopener noreferrer" className="hover:text-pink-400">🐙 GitHub</a>
             <a href="https://linkedin.com/in/barnamay-chowdhury-614524257" target="_blank" rel="noopener noreferrer" className="hover:text-pink-400">💼 LinkedIn</a>
-          </div>
+          </div> */}
         </div>
       </section>
       {/* <section className="py-24 px-6 bg-gradient-to-b from-black via-purple-950 to-black text-white text-center">

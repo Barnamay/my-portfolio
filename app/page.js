@@ -237,7 +237,7 @@ export default function Home() {
           <div className="relative w-full" style={{ paddingBottom: '56.25%', height: 0 }}>
             <iframe
               className="absolute top-0 left-0 w-full h-full rounded-xl shadow-xl"
-              src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+              src="https://www.youtube.com/embed/ac3422Rqawo?si=_qxpjxRBscGyH3xQ"
               title="YouTube video player"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -246,6 +246,7 @@ export default function Home() {
 
           </div>
         </div>
+        <div className="relative z-50">
         <a
           href="https://www.youtube.com/@barnamaychowdhury3226"
           target="_blank"
@@ -253,7 +254,7 @@ export default function Home() {
           className="mt-6 inline-block text-white underline hover:text-pink-400 relative z-20"
         >
           Visit My Channel
-        </a>
+        </a></div>
 
       </section>
 

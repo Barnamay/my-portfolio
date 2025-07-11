@@ -249,10 +249,12 @@ export default function Home() {
         <a
           href="https://www.youtube.com/@barnamaychowdhury3226"
           target="_blank"
-          className="mt-6 inline-block text-white underline hover:text-pink-400"
+          rel="noopener noreferrer"
+          className="mt-6 inline-block text-white underline hover:text-pink-400 relative z-20"
         >
           Visit My Channel
         </a>
+
       </section>
 
       {/* Footer */}

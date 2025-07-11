@@ -44,7 +44,7 @@ export default function Home() {
         />
         <div className="max-w-xl">
           <h1 className="text-4xl sm:text-5xl font-extrabold text-white drop-shadow-[0_0_12px_rgba(255,255,255,0.5)] mb-2">
-            Barnamay Chowdhury
+            BARNAMAY CHOWDHURY
           </h1>
           <p className="text-lg text-purple-200 font-medium mb-3 drop-shadow-[0_0_8px_rgba(192,132,252,0.5)]">
             Full Stack Developer | Content Creator 🚀

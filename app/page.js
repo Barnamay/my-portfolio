@@ -69,8 +69,8 @@ export default function Home() {
           <div className="flex justify-center md:justify-start gap-4 text-xl mb-6">
             <a href="mailto:barnamay1234@gmail.com" className="hover:text-pink-400">📧</a>
             <a href="https://github.com/barnamay" target="_blank" className="hover:text-pink-400">🐙</a>
-            <a href="https://linkedin.com/in/barnamay" target="_blank" className="hover:text-pink-400">💼</a>
-            <a href="https://youtube.com/@yourchannel" target="_blank" className="hover:text-pink-400">🎬</a>
+            <a href="https://linkedin.com/in/barnamay-chowdhury-614524257" target="_blank" className="hover:text-pink-400">💼</a>
+            <a href="https://www.youtube.com/@barnamaychowdhury3226" target="_blank" className="hover:text-pink-400">🎬</a>
           </div>
 
           <Link href="#projects">
@@ -96,9 +96,9 @@ export default function Home() {
             I also create content on <span className="text-pink-400 font-semibold">YouTube</span>, contribute to <span className="text-pink-400 font-semibold">open-source projects</span>, and actively participate in developer communities like <span className="text-pink-400 font-semibold">GDSC/Google Developer Groups</span>.
           </p>
           <div className="mt-6 flex justify-center gap-6 text-white text-xl">
-            <a href="mailto:your@email.com" className="hover:text-pink-400">📧 Mail</a>
+            <a href="mailto:barnamay1234@gmail.com" className="hover:text-pink-400">📧 Mail</a>
             <a href="https://github.com/barnamay" target="_blank" rel="noopener noreferrer" className="hover:text-pink-400">🐙 GitHub</a>
-            <a href="https://linkedin.com/in/barnamay" target="_blank" rel="noopener noreferrer" className="hover:text-pink-400">💼 LinkedIn</a>
+            <a href="https://linkedin.com/in/barnamay-chowdhury-614524257" target="_blank" rel="noopener noreferrer" className="hover:text-pink-400">💼 LinkedIn</a>
           </div>
         </div>
       </section>
@@ -119,9 +119,9 @@ export default function Home() {
               desc: 'A role-based registration platform using Next.js, Prisma & PostgreSQL. Admins can approve/publish events, view participants, and export data.'
             },
             {
-              video: '/vid5.mp4',
+              video: '/vid9.mp4',
               title: 'Portfolio Showcase',
-              link: 'https://yourportfolio.vercel.app',
+              link: 'https://my-portfolio-five-xi-77.vercel.app/',
               desc: 'A sleek personal portfolio built with Next.js, Tailwind CSS, Framer Motion. Features parallax backgrounds, flip animations, and scroll effects.'
             },
             // {
@@ -234,7 +234,7 @@ export default function Home() {
         </p>
         <div className="max-w-xl mx-auto aspect-video rounded-2xl overflow-hidden shadow-lg shadow-pink-500/30">
           <iframe
-            src="https://www.youtube.com/embed/YOUR_VIDEO_ID"
+            src="https://www.youtube.com/watch?v=ac3422Rqawo&list=PLZ6B3_LxRgVRtbMsslb3pF_U-JJPj5Itm"
             title="YouTube video"
             frameBorder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -243,7 +243,7 @@ export default function Home() {
           ></iframe>
         </div>
         <a
-          href="https://www.youtube.com/@yourchannel"
+          href="https://www.youtube.com/@barnamaychowdhury3226"
           target="_blank"
           className="mt-6 inline-block text-white underline hover:text-pink-400"
         >
